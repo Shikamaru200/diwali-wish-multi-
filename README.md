@@ -26,8 +26,8 @@ const C={
   ]
 };
 What you want to change	What to edit
-Receiver's name (shown on page 1 and in "Dear ...")	to:"Shruti"
-Sender's name (letter signature and finale)	from:"Nikhil"
+Receiver's name (shown on page 1 and in "Dear ...")	to:"S"
+Sender's name (letter signature and finale)	from:"N"
 Date shown on page 1 and the finale	date:"8 November 2026"
 Letter text	The lines inside letter:[ ... ]. Keep {to} where the receiver's name should appear. Each line is one paragraph; you can add or remove lines.
 Change the text on other pages
@@ -42,7 +42,7 @@ Send a different name without editing the file
 
 Add details to the link. Nothing in the code needs to change:
 
-https://<username>.github.io/<repo>/?to=Shruti&from=Nikhil&date=8%20November%202026
+https://<username>.github.io/<repo>/?to=S&from=N&date=8%20November%202026
 
 Use %20 for spaces. Change to= to make a different person's greeting from the same page.
 
